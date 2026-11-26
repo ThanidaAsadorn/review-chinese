@@ -1,0 +1,22 @@
+{
+  "version": "2.1",
+  "revision": 1,
+  "date": "2026-11-26",
+  "history": [
+    {
+      "version": "2.1",
+      "date": "2026-11-26",
+      "changes": [
+        "Automatic shared lesson updates and new-version notification.",
+        "Personal progress preserved; conflicting personal lesson edits kept as copies.",
+        "Version history, dated backups and offline cache updates."
+      ]
+    },
+    {
+      "version": "2.0",
+      "changes": [
+        "21 lessons in 阅读、综合、口语、商务; six practice modes and personal review tools."
+      ]
+    }
+  ]
+}
